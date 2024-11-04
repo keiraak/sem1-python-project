@@ -1,4 +1,4 @@
-# Preprosal
+# Preposal
 
 ## What idea(s) do you have for your final project
 Either a game or a website.
