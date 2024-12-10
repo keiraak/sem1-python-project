@@ -1,10 +1,29 @@
-# Preposal
+# Status Report
 
-## What idea(s) do you have for your final project
-Either a game or a website.
+#### Your name
 
-## If you plan to collaborate with one or two classmates, what are their names?
-I plan to work solo.
+Keira
 
-## Do you have any questions of your own?
-Maybe I'll have questions along the way.
+#### Your section leader's name
+
+Keira
+
+#### Project title
+
+Skin Quiz
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+Setting up the virtual enviornment in my terminal, downloading things it needs like homebrew, django, python, pip. 
+
+#### What have you not done for your project yet?
+
+Building the pages for the website
+
+#### What problems, if any, have you encountered?
+
+Import and Configuration Errors
